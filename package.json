@@ -1,0 +1,14 @@
+{
+  "name": "ecommerce-app",
+  "version": "1.0.0",
+  "description": "Simple full-stack e-commerce web app (Express + JSON file DB)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "express-session": "^1.18.0",
+    "bcryptjs": "^2.4.3"
+  }
+}

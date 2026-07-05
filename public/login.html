@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Log in — Verdant & Co</title>
+<link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+<div id="nav-root"></div>
+
+<main class="container">
+  <div class="card form-narrow">
+    <h2 style="margin-top:0;">Welcome back</h2>
+    <div id="error-box"></div>
+    <form id="login-form">
+      <div class="form-group">
+        <label for="email">Email</label>
+        <input type="email" id="email" required>
+      </div>
+      <div class="form-group">
+        <label for="password">Password</label>
+        <input type="password" id="password" required>
+      </div>
+      <button type="submit" class="btn btn-primary btn-block">Log in</button>
+    </form>
+    <p class="form-footer-link">Don't have an account? <a href="/register.html">Sign up</a></p>
+  </div>
+</main>
+
+<script src="/js/nav.js"></script>
+<script src="/js/auth.js"></script>
+</body>
+</html>

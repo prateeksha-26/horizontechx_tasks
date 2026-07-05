@@ -1,0 +1,218 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "description": "Over-ear wireless headphones with active noise cancellation and 30-hour battery life.",
+    "price": 6499,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhw2LYAXg1EJ3wLcKo3NPZkGy7ATklOADPqOoWkyWp_w&s=10",
+    "category": "Electronics",
+    "stock": 25
+  },
+  {
+    "id": 2,
+    "name": "Smart Watch",
+    "description": "Fitness tracking smart watch with heart-rate monitor, GPS, and 7-day battery.",
+    "price": 10499,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmWmv6N2bh2IUre3787jAMADFVVkmmyQKjWg9utkccSA&s",
+    "category": "Electronics",
+    "stock": 15
+  },
+  {
+    "id": 5,
+    "name": "Baby frock",
+    "description": "Cute Woolen Long Sleeve Knitwear Frock for Girls - PInk 5-6 years.",
+    "price": 1899,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy88ig8AoYu3DVeuLgbZxI643mRb1nEujvD7JWxTkjeg&s=10",
+    "category": "Electronics",
+    "stock": 20
+  },
+  {
+    "id": 9,
+    "name": "Bluetooth Speaker",
+    "description": "Portable waterproof Bluetooth speaker with deep bass and 12-hour playtime.",
+    "price": 3299,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmos41SlXDI14DJ7SvcQ9eh53hK_X7De4N4ynz6-yUD5FMSXbw4fhl6MQ&s=10",
+    "category": "Electronics",
+    "stock": 28
+  },
+  {
+    "id": 3,
+    "name": "Canvas Backpack",
+    "description": "Durable canvas backpack with padded laptop sleeve, fits up to 15-inch laptops.",
+    "price": 2399,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsQKJUMPVaX9Fmjc3dgSKLOVpvrpOmYfPOAIhQphpJTQ&s=10",
+    "category": "Accessories",
+    "stock": 40
+  },
+  {
+    "id": 10,
+    "name": "Sunglasses",
+    "description": "UV-protected metal-frame aviator sunglasses with polarized lenses.",
+    "price": 1299,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ09obwFPHA7PyqbPoA2ukRl1g-XT3TMxuC95NQY7nAPw&s=10",
+    "category": "Accessories",
+    "stock": 45
+  },
+  {
+    "id": 11,
+    "name": "Leather Wallet",
+    "description": "Slim genuine-leather bifold wallet with RFID-blocking card slots.",
+    "price": 899,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-3_sbqXlUA4d7ovkmLEWeIda-noBi-IRCYLASBGjdgg&s=10",
+    "category": "Accessories",
+    "stock": 55
+  },
+  {
+    "id": 12,
+    "name": "Laptop Sleeve",
+    "description": "Padded neoprene laptop sleeve with water-resistant zip closure, fits 13-15 inch laptops.",
+    "price": 799,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4xO6oggp4XjJ_avUzqsHk4ut3xtRAtAILCXb5RvKptA&s=10",
+    "category": "Accessories",
+    "stock": 50
+  },
+  {
+    "id": 4,
+    "name": "Stainless Steel Water Bottle",
+    "description": "Insulated water bottle, keeps drinks cold for 24 hours or hot for 12 hours.",
+    "price": 699,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXx9cCLAd8IXGBqa2L2v3tbg4SzwRLoumX2oIY66G3Bg&s=10",
+    "category": "Home",
+    "stock": 60
+  },
+  {
+    "id": 7,
+    "name": "LED Desk Lamp",
+    "description": "LED desk lamp with adjustable brightness and USB charging port.",
+    "price": 799,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsyJmCjvzVIJ5Koh3yg8tVUn9StKFOVDGruES_n2vyYA&s=10",
+    "category": "Home",
+    "stock": 18
+  },
+  {
+    "id": 13,
+    "name": "Ceramic Mug Set",
+    "description": "Set of 4 hand-glazed ceramic coffee mugs, microwave and dishwasher safe.",
+    "price": 499,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbus2Z_Lx4QysFfDIYjooZqYYbPpkkCFizBALl6mA97A&s=10",
+    "category": "Home",
+    "stock": 32
+  },
+  {
+    "id": 14,
+    "name": "Scented Candle",
+    "description": "Soy-wax scented candle with 40-hour burn time, sandalwood and vanilla notes.",
+    "price": 549,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdJPoJPrNUbzkne_1fgkabLLCJuIKwrJ7VDy_Akqa-gg&s=10",
+    "category": "Home",
+    "stock": 70
+  },
+  {
+    "id": 6,
+    "name": "Yoga Mat",
+    "description": "Non-slip eco-friendly yoga mat, 6mm thick for extra cushioning.",
+    "price": 1199,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-NCIaSSMWWxzcZ3ipaRfqw4TTyR7vAlirOnH_AOo7bA&s=10",
+    "category": "Fitness",
+    "stock": 35
+  },
+  {
+    "id": 8,
+    "name": "Running Shoes",
+    "description": "Lightweight breathable running shoes with cushioned sole.",
+    "price": 3499,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaU6uAYztNRwX59BdrhQLWbPW_oWjHjXACfm3H5IFRxQ&s",
+    "category": "Fitness",
+    "stock": 30
+  },
+  {
+    "id": 15,
+    "name": "Adjustable Dumbbell Set",
+    "description": "Pair of adjustable dumbbells, 2-24 kg per hand with quick-lock weight plates.",
+    "price": 5999,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjoPfoc_x1cZlsr8_cVTdtX3_BMLRDNmv7jYCMxjGSsg&s=10",
+    "category": "Fitness",
+    "stock": 12
+  },
+  {
+    "id": 16,
+    "name": "Resistance Bands Set",
+    "description": "Set of 5 latex resistance bands with varying tension levels and carry pouch.",
+    "price": 999,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbidk9CSI11aNEllwSeOPdRCepTvv481XzaxU_0Bg7PA&s=10",
+    "category": "Fitness",
+    "stock": 48
+  },
+  {
+    "id": 17,
+    "name": "Non-Stick Cookware Set",
+    "description": "5-piece non-stick cookware set with heat-resistant handles, induction compatible.",
+    "price": 4499,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGMhrOFmKwHEyVASetugSTAoLdmL78q_yBljVd5HjmmQ&s=10",
+    "category": "Kitchen",
+    "stock": 16
+  },
+  {
+    "id": 18,
+    "name": "French Press",
+    "description": "Borosilicate glass French press, 1-litre capacity with stainless steel filter.",
+    "price": 2399,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhL6YXMjOai8F5j7ixPCxTWUuvxavUEDy_x3xXUnQePQ&s=10",
+    "category": "Kitchen",
+    "stock": 26
+  },
+  {
+    "id": 19,
+    "name": "Chef's Knife",
+    "description": "8-inch forged high-carbon stainless steel chef's knife with ergonomic handle.",
+    "price": 1599,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu0km85iCsTNASc3IjPeAYNp6vSCZK_Z4HBDSyh7Jj9Q&s=10",
+    "category": "Kitchen",
+    "stock": 22
+  },
+  {
+    "id": 20,
+    "name": "Bamboo Cutting Board",
+    "description": "Organic bamboo cutting board set with juice groove, 3 sizes included.",
+    "price": 899,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbc7_oHrKh3mTFcjHsyg_sEdCrJdrYtlChE61zfJKKuQ&s=10",
+    "category": "Kitchen",
+    "stock": 38
+  },
+  {
+    "id": 21,
+    "name": "Denim Jacket",
+    "description": "Classic washed-denim jacket with button front and chest pockets.",
+    "price": 2299,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl5pVQYQN45LgzND6PV5Hd3Yw-w80_xGfAeYdduS1Xeg&s=10",
+    "category": "Fashion",
+    "stock": 24
+  },
+  {
+    "id": 22,
+    "name": "Cotton T-Shirt",
+    "description": "Everyday crew-neck t-shirt made from 100% combed cotton, breathable fit.",
+    "price": 499,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXk3D_VRlbPZ0p4GBb8c7QPGjHGdfW_OnhP6zXPIXbtA&s=10",
+    "category": "Fashion",
+    "stock": 80
+  },
+  {
+    "id": 23,
+    "name": "Canvas Sneakers",
+    "description": "Casual canvas sneakers with rubber sole, available in classic white.",
+    "price": 3799,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYDNw4w4HSNctWXBpq6dsKZpdwcoEHuZsLZieKZ-5F1g&s=10",
+    "category": "Fashion",
+    "stock": 42
+  },
+  {
+    "id": 24,
+    "name": "Wool Scarf",
+    "description": "Soft merino-wool scarf, lightweight yet warm, perfect for winter layering.",
+    "price": 499,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgnVTbrI1wdiM3RxYNthWgTOrSz1PbEzKWTjwQiS0eAQ&s=10",
+    "category": "Fashion",
+    "stock": 33
+  }
+]
