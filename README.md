@@ -1,5 +1,9 @@
 # Verdant & Co — E-Commerce Demo
+## 🔗 Live Demo
+[https://verdant-and-co.onrender.com](https://verdant-and-co.onrender.com)
 
+> Hosted on Render's free tier — if it's been idle, the first load may take 30-60 seconds to wake up.
+> 
 A small but fully functional online store: Express.js backend, vanilla HTML/CSS/JS frontend, JSON-file database (no setup, no native modules — just `npm install` and go).
 
 ## Features
@@ -16,7 +20,6 @@ npm install
 npm start
 ```
 
-Then open **http://localhost:3000** in your browser.
 
 ## Project structure
 
