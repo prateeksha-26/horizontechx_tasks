@@ -1,0 +1,120 @@
+.recaps-page {
+  min-height: 100vh;
+  padding: 2rem 2.5rem;
+  color: #eef2ff;
+}
+
+.recaps-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 1.75rem;
+  gap: 1rem;
+}
+
+.recaps-header h1 {
+  margin: 0;
+  color: #ffffff;
+}
+
+.recaps-header p {
+  margin: 0.5rem 0 0;
+  color: rgba(255,255,255,0.72);
+}
+
+.recaps-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 1.25rem;
+}
+
+.recap-card {
+  padding: 1.35rem;
+  border-radius: 28px;
+  background: rgba(255,255,255,0.05);
+  border: 1px solid rgba(95,212,196,0.18);
+  box-shadow: 0 24px 55px rgba(0,0,0,0.18);
+}
+
+.recap-card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.recap-card-header h2 {
+  margin: 0;
+  font-size: 1.1rem;
+  color: #f3f6ff;
+}
+
+.recap-card-header p {
+  margin: 0.35rem 0 0;
+  color: rgba(255,255,255,0.68);
+}
+
+.recap-copy-btn {
+  padding: 0.75rem 1rem;
+  border-radius: 16px;
+  border: none;
+  background: rgba(95,212,196,0.15);
+  color: #e8ffff;
+  cursor: pointer;
+}
+
+.recap-metrics {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.85rem;
+  margin-bottom: 1rem;
+}
+
+.recap-metrics div {
+  padding: 0.85rem;
+  border-radius: 18px;
+  background: rgba(255,255,255,0.04);
+  border: 1px solid rgba(255,255,255,0.08);
+}
+
+.recap-metrics span {
+  display: block;
+  color: rgba(255,255,255,0.7);
+  font-size: 0.82rem;
+}
+
+.recap-metrics strong {
+  display: block;
+  margin-top: 0.4rem;
+  font-size: 1.05rem;
+  color: #d8fbff;
+}
+
+.recap-summary {
+  padding: 1rem;
+  border-radius: 20px;
+  background: rgba(255,255,255,0.04);
+  border: 1px solid rgba(255,255,255,0.08);
+}
+
+.recap-summary h3 {
+  margin: 0 0 0.75rem;
+  color: #c9eefd;
+}
+
+.recap-summary pre {
+  white-space: pre-wrap;
+  word-break: break-word;
+  margin: 0;
+  color: rgba(255,255,255,0.9);
+}
+
+.recap-summary.empty {
+  font-style: italic;
+  color: rgba(255,255,255,0.72);
+}
+
+.empty-state {
+  color: rgba(255,255,255,0.75);
+}
